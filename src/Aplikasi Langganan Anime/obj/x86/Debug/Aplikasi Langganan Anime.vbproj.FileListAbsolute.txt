@@ -1,0 +1,18 @@
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi_Langganan_Anime.Form1.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi_Langganan_Anime.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.vbproj.GenerateResource.Cache
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.exe
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.pdb
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\bin\Debug\Aplikasi Langganan Anime.xml
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi_Langganan_Anime.Form1.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi_Langganan_Anime.Resources.resources
+D:\Campus\Semester V\Kecerdasan Komputasi\Aplikasi Langganan Anime\src\Aplikasi Langganan Anime\obj\x86\Debug\Aplikasi Langganan Anime.vbproj.GenerateResource.Cache
